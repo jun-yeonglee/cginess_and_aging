@@ -26,4 +26,3 @@ To calculate net expression change, use 'cal_netexpchange_allpairstesting_rmBoth
    Each sample should have "y" or "o" as the first word to distinguish groups, which mean 'young' or 'old', respectively.
    (e.g. y.6.M.GSM12345; y=group; 6=age; M=sex) 
 3. You will need some Perl packages: 'Statistics::Test::WilcoxonRankSum', 'List::Util' and 'Parallel::ForkManager'.
-4. 

@@ -11,7 +11,9 @@ Example: perl cal_distshift_allpairstesting_rmBoth0_multithreads.pl normcnt_dese
 [read count table]: A table of normalized read counts is recommended. DESeq2-normalized counts were used in the study.
 
 To calculate distribution shift, use 'cal_distshift_allpairstesting_rmBoth0_multithreads.pl'.
+
 To calculate net expression change, use 'cal_netexpchange_allpairstesting_rmBoth0_multithreads.pl'.
+
 Their usages are identical.
 
 # Note

@@ -13,7 +13,7 @@ Example: perl cal_distshift_allpairstesting_rmBoth0_multithreads.pl 16 normcnt_d
 
 [file name]: Table(s) of read counts. Normalized read counts are recommended. DESeq2-normalized counts were used in the study.
 
-You can use a specific file name for a single file, or can use common file name that put together your target files.  
+You can specify a file name for a single run, or can use common file name that put together your target files (multithreading).  
 
 To calculate distribution shift, use 'cal_distshift_allpairstesting_rmBoth0_multithreads.pl'.
 

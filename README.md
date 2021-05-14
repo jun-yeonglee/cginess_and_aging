@@ -5,7 +5,9 @@ These Perl codes enable to calculate 'distribution shift' and 'net expression ch
 
 # How to use
 Usage: perl cal_distshift_allpairstesting_rmBoth0_multithreads.pl [read count table]
+
 Example: perl cal_distshift_allpairstesting_rmBoth0_multithreads.pl normcnt_deseq2_GSE121539_mouse_infoAdded.txt
+
 [read count table]: A table of normalized read counts is recommended. DESeq2-normalized counts were used in the study.
 
 To calculate distribution shift, use 'cal_distshift_allpairstesting_rmBoth0_multithreads.pl'.

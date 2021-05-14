@@ -9,7 +9,7 @@ Usage: perl cal_distshift_allpairstesting_rmBoth0_multithreads.pl [#threads] [fi
 
 Example: perl cal_distshift_allpairstesting_rmBoth0_multithreads.pl 16 normcnt_deseq2
 
-[#threads]: These codes provide multithreading. you can choose the number of threads you want to use.
+[#threads]: These codes run with multithreads. you can choose the number of threads you want to use.
 
 [file name]: Table(s) of read counts. Normalized read counts are recommended. DESeq2-normalized counts were used in the study.
 
